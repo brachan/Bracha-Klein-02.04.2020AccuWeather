@@ -1,0 +1,25 @@
+[
+  {
+    "LocalObservationDateTime": "2021-02-03T19:46:00+02:00",
+    "EpochTime": 1612374360,
+    "WeatherText": "Mostly clear",
+    "WeatherIcon": 34,
+    "HasPrecipitation": false,
+    "PrecipitationType": null,
+    "IsDayTime": false,
+    "Temperature": {
+      "Metric": {
+        "Value": 15.6,
+        "Unit": "C",
+        "UnitType": 17
+      },
+      "Imperial": {
+        "Value": 60,
+        "Unit": "F",
+        "UnitType": 18
+      }
+    },
+    "MobileLink": "http://m.accuweather.com/en/il/jerusalem/213225/current-weather/213225?lang=en-us",
+    "Link": "http://www.accuweather.com/en/il/jerusalem/213225/current-weather/213225?lang=en-us"
+  }
+]

@@ -1,0 +1,25 @@
+<div class="row mt-3">
+  <div class="col-md-6 col-lg-4 col-xl-2 col-for-5" *ngFor="let day of dailyForecasts; index as i ">
+    <div class="card card-detail">
+
+      <div class="card-header pointer mb-3">
+        <b>
+          <span> Date: </span>
+          <span>{{ day.Date | date:'MMMM d, y' }}</span>
+        </b>
+        
+      </div>
+
+      <p class="card-row">
+        <span >Temperature: </span>{{day.Temperature.Minimum.Value}} - {{day.Temperature.Maximum.Value}}
+      </p>
+      <p class="card-row">
+        <span >Day:</span>{{day.Day.IconPhrase}}
+      </p>
+      <p class="card-row">
+        <span>Night:</span>{{day.Night.IconPhrase}}
+      </p>
+    </div>
+    <br />
+  </div>
+</div>

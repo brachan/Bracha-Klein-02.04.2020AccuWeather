@@ -1,0 +1,5 @@
+<p-autoComplete [(ngModel)]="text" [suggestions]="results" (completeMethod)="search($event)"
+                field="description" [forceSelection]="true" (onSelect)="onSelectedCity($event)"
+                [style]="{'width':'50%'}" [inputStyle]="{'width':'100%'}" placeholder="Jerusalem"></p-autoComplete>
+<button (click)="changeUnit()" pButton type="button" label="F/C"></button>
+

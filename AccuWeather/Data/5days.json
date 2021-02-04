@@ -1,0 +1,176 @@
+{
+  "Headline": {
+    "EffectiveDate": "2021-02-07T07:00:00+02:00",
+    "EffectiveEpochDate": 1612674000,
+    "Severity": 4,
+    "Text": "Pleasant Sunday",
+    "Category": "mild",
+    "EndDate": null,
+    "EndEpochDate": null,
+    "MobileLink": "http://m.accuweather.com/en/il/jerusalem/213225/extended-weather-forecast/213225?unit=c&lang=en-us",
+    "Link": "http://www.accuweather.com/en/il/jerusalem/213225/daily-weather-forecast/213225?unit=c&lang=en-us"
+  },
+  "DailyForecasts": [
+    {
+      "Date": "2021-02-03T07:00:00+02:00",
+      "EpochDate": 1612328400,
+      "Temperature": {
+        "Minimum": {
+          "Value": 9.8,
+          "Unit": "C",
+          "UnitType": 17
+        },
+        "Maximum": {
+          "Value": 19.3,
+          "Unit": "C",
+          "UnitType": 17
+        }
+      },
+      "Day": {
+        "Icon": 1,
+        "IconPhrase": "Sunny",
+        "HasPrecipitation": false
+      },
+      "Night": {
+        "Icon": 41,
+        "IconPhrase": "Partly cloudy w/ t-storms",
+        "HasPrecipitation": true,
+        "PrecipitationType": "Rain",
+        "PrecipitationIntensity": "Moderate"
+      },
+      "Sources": [
+        "AccuWeather"
+      ],
+      "MobileLink": "http://m.accuweather.com/en/il/jerusalem/213225/daily-weather-forecast/213225?day=1&unit=c&lang=en-us",
+      "Link": "http://www.accuweather.com/en/il/jerusalem/213225/daily-weather-forecast/213225?day=1&unit=c&lang=en-us"
+    },
+    {
+      "Date": "2021-02-04T07:00:00+02:00",
+      "EpochDate": 1612414800,
+      "Temperature": {
+        "Minimum": {
+          "Value": 7.3,
+          "Unit": "C",
+          "UnitType": 17
+        },
+        "Maximum": {
+          "Value": 13.7,
+          "Unit": "C",
+          "UnitType": 17
+        }
+      },
+      "Day": {
+        "Icon": 17,
+        "IconPhrase": "Partly sunny w/ t-storms",
+        "HasPrecipitation": true,
+        "PrecipitationType": "Rain",
+        "PrecipitationIntensity": "Heavy"
+      },
+      "Night": {
+        "Icon": 35,
+        "IconPhrase": "Partly cloudy",
+        "HasPrecipitation": false
+      },
+      "Sources": [
+        "AccuWeather"
+      ],
+      "MobileLink": "http://m.accuweather.com/en/il/jerusalem/213225/daily-weather-forecast/213225?day=2&unit=c&lang=en-us",
+      "Link": "http://www.accuweather.com/en/il/jerusalem/213225/daily-weather-forecast/213225?day=2&unit=c&lang=en-us"
+    },
+    {
+      "Date": "2021-02-05T07:00:00+02:00",
+      "EpochDate": 1612501200,
+      "Temperature": {
+        "Minimum": {
+          "Value": 7.2,
+          "Unit": "C",
+          "UnitType": 17
+        },
+        "Maximum": {
+          "Value": 13.3,
+          "Unit": "C",
+          "UnitType": 17
+        }
+      },
+      "Day": {
+        "Icon": 12,
+        "IconPhrase": "Showers",
+        "HasPrecipitation": true,
+        "PrecipitationType": "Rain",
+        "PrecipitationIntensity": "Light"
+      },
+      "Night": {
+        "Icon": 35,
+        "IconPhrase": "Partly cloudy",
+        "HasPrecipitation": false
+      },
+      "Sources": [
+        "AccuWeather"
+      ],
+      "MobileLink": "http://m.accuweather.com/en/il/jerusalem/213225/daily-weather-forecast/213225?day=3&unit=c&lang=en-us",
+      "Link": "http://www.accuweather.com/en/il/jerusalem/213225/daily-weather-forecast/213225?day=3&unit=c&lang=en-us"
+    },
+    {
+      "Date": "2021-02-06T07:00:00+02:00",
+      "EpochDate": 1612587600,
+      "Temperature": {
+        "Minimum": {
+          "Value": 4.8,
+          "Unit": "C",
+          "UnitType": 17
+        },
+        "Maximum": {
+          "Value": 15.2,
+          "Unit": "C",
+          "UnitType": 17
+        }
+      },
+      "Day": {
+        "Icon": 3,
+        "IconPhrase": "Partly sunny",
+        "HasPrecipitation": false
+      },
+      "Night": {
+        "Icon": 35,
+        "IconPhrase": "Partly cloudy",
+        "HasPrecipitation": false
+      },
+      "Sources": [
+        "AccuWeather"
+      ],
+      "MobileLink": "http://m.accuweather.com/en/il/jerusalem/213225/daily-weather-forecast/213225?day=4&unit=c&lang=en-us",
+      "Link": "http://www.accuweather.com/en/il/jerusalem/213225/daily-weather-forecast/213225?day=4&unit=c&lang=en-us"
+    },
+    {
+      "Date": "2021-02-07T07:00:00+02:00",
+      "EpochDate": 1612674000,
+      "Temperature": {
+        "Minimum": {
+          "Value": 7.3,
+          "Unit": "C",
+          "UnitType": 17
+        },
+        "Maximum": {
+          "Value": 16.7,
+          "Unit": "C",
+          "UnitType": 17
+        }
+      },
+      "Day": {
+        "Icon": 2,
+        "IconPhrase": "Mostly sunny",
+        "HasPrecipitation": false
+      },
+      "Night": {
+        "Icon": 33,
+        "IconPhrase": "Clear",
+        "HasPrecipitation": false
+      },
+      "Sources": [
+        "AccuWeather"
+      ],
+      "MobileLink": "http://m.accuweather.com/en/il/jerusalem/213225/daily-weather-forecast/213225?day=5&unit=c&lang=en-us",
+      "Link": "http://www.accuweather.com/en/il/jerusalem/213225/daily-weather-forecast/213225?day=5&unit=c&lang=en-us"
+    }
+  ]
+}

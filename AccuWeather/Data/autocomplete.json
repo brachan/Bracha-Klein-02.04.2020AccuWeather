@@ -1,0 +1,152 @@
+ [
+    {
+      "Version": 1,
+      "Key": "213225",
+      "Type": "City",
+      "Rank": 30,
+      "LocalizedName": "Jerusalem",
+      "Country": {
+        "ID": "IL",
+        "LocalizedName": "Israel"
+      },
+      "AdministrativeArea": {
+        "ID": "JM",
+        "LocalizedName": "Jerusalem"
+      }
+    },
+    {
+      "Version": 1,
+      "Key": "128752",
+      "Type": "City",
+      "Rank": 65,
+      "LocalizedName": "Jerusalen",
+      "Country": {
+        "ID": "SV",
+        "LocalizedName": "El Salvador"
+      },
+      "AdministrativeArea": {
+        "ID": "PA",
+        "LocalizedName": "La Paz"
+      }
+    },
+    {
+      "Version": 1,
+      "Key": "1990725",
+      "Type": "City",
+      "Rank": 75,
+      "LocalizedName": "Jeru",
+      "Country": {
+        "ID": "ID",
+        "LocalizedName": "Indonesia"
+      },
+      "AdministrativeArea": {
+        "ID": "JI",
+        "LocalizedName": "East Java"
+      }
+    },
+    {
+      "Version": 1,
+      "Key": "3461725",
+      "Type": "City",
+      "Rank": 75,
+      "LocalizedName": "Jeru",
+      "Country": {
+        "ID": "ID",
+        "LocalizedName": "Indonesia"
+      },
+      "AdministrativeArea": {
+        "ID": "JI",
+        "LocalizedName": "East Java"
+      }
+    },
+    {
+      "Version": 1,
+      "Key": "3466344",
+      "Type": "City",
+      "Rank": 75,
+      "LocalizedName": "Jeruk",
+      "Country": {
+        "ID": "ID",
+        "LocalizedName": "Indonesia"
+      },
+      "AdministrativeArea": {
+        "ID": "JI",
+        "LocalizedName": "East Java"
+      }
+    },
+    {
+      "Version": 1,
+      "Key": "685207",
+      "Type": "City",
+      "Rank": 75,
+      "LocalizedName": "Jeruk",
+      "Country": {
+        "ID": "ID",
+        "LocalizedName": "Indonesia"
+      },
+      "AdministrativeArea": {
+        "ID": "JI",
+        "LocalizedName": "East Java"
+      }
+    },
+    {
+      "Version": 1,
+      "Key": "3454493",
+      "Type": "City",
+      "Rank": 75,
+      "LocalizedName": "Jeruklegi Kulon",
+      "Country": {
+        "ID": "ID",
+        "LocalizedName": "Indonesia"
+      },
+      "AdministrativeArea": {
+        "ID": "JT",
+        "LocalizedName": "Central Java"
+      }
+    },
+    {
+      "Version": 1,
+      "Key": "3454492",
+      "Type": "City",
+      "Rank": 75,
+      "LocalizedName": "Jeruklegi Wetan",
+      "Country": {
+        "ID": "ID",
+        "LocalizedName": "Indonesia"
+      },
+      "AdministrativeArea": {
+        "ID": "JT",
+        "LocalizedName": "Central Java"
+      }
+    },
+    {
+      "Version": 1,
+      "Key": "3473299",
+      "Type": "City",
+      "Rank": 75,
+      "LocalizedName": "Jeruju Besar",
+      "Country": {
+        "ID": "ID",
+        "LocalizedName": "Indonesia"
+      },
+      "AdministrativeArea": {
+        "ID": "KB",
+        "LocalizedName": "West Kalimantan"
+      }
+    },
+    {
+      "Version": 1,
+      "Key": "312727",
+      "Type": "City",
+      "Rank": 75,
+      "LocalizedName": "Jerud",
+      "Country": {
+        "ID": "SY",
+        "LocalizedName": "Syria"
+      },
+      "AdministrativeArea": {
+        "ID": "RD",
+        "LocalizedName": "Rif Dimashq"
+      }
+    }
+  ]

@@ -1,0 +1,5 @@
+<div *ngIf="condition">
+  <h1>Weather is {{condition.WeatherText}} </h1>
+  <h3 *ngIf="metric">Temperature: {{condition.Temperature.Metric.Value}} {{condition.Temperature.Metric.Unit}}</h3>
+  <h3 *ngIf="!metric">Temperature: {{condition.Temperature.Imperial.Value}} {{condition.Temperature.Imperial.Unit}}</h3>
+</div>
